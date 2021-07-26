@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Là lđm thì ấn vào đây!',
-    introDesc: `Anh nhà ở đâu thế
+    introDesc: `Bạn nhà ở đâu thế
     Cứ tới lui trong tim tôi chẳng nhớ đường về à
     Cứ khiến cho tôi ngày đêm phải khóc rồi cười vì nhớ một người
     Khiến trái tim tôi lâu nay tương tư về anh đấy,
