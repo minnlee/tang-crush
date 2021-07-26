@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Là lđm thì ấn vào đây!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hiii',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    introDesc: `Anh nhà ở đâu thế
+    Cứ tới lui trong tim tôi chẳng nhớ đường về à
+    Cứ khiến cho tôi ngày đêm phải khóc rồi cười vì nhớ một người
+    Khiến trái tim tôi lâu nay tương tư về anh đấy,
+    btnIntro: 'hiiiii',
+    title: 'Tôi từ lâu đã thích anh rồi 😙',
+    desc: 'Chỉ mong hai ta thành đôi ',
     btnYes: 'Đã thích bạn rất lâu rồi <33',
     btnNo: 'Không, chúng mình chỉ là friendzone :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích mình <3',
