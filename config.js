@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Là lđm thì ấn vào đây!',
-    introDesc: `Bạn nhà ở đâu thế
-    Cứ tới lui trong tim tôi chẳng nhớ đường về à
-    Cứ khiến cho tôi ngày đêm phải khóc rồi cười vì nhớ một người
-    Khiến trái tim tôi lâu nay tương tư về anh đấy,
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi 
+    Đằng sau chữ yêu đây là thương,
     btnIntro: 'hiiiii',
     title: 'Tôi từ lâu đã thích anh rồi 😙',
     desc: 'Chỉ mong hai ta thành đôi ',
